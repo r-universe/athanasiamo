@@ -1,5 +1,101 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/athanasiamo/universe
 	shallow = true
 	branch = HEAD
+[submodule "ggseg"]
+	path = ggseg
+	url = https://github.com/lcbc-uio/ggseg
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggseg3d"]
+	path = ggseg3d
+	url = https://github.com/lcbc-uio/ggseg3d
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegExtra"]
+	path = ggsegExtra
+	url = https://github.com/lcbc-uio/ggsegExtra
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegYeo2011"]
+	path = ggsegYeo2011
+	url = https://github.com/lcbc-uio/ggsegYeo2011
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegSchaefer"]
+	path = ggsegSchaefer
+	url = https://github.com/lcbc-uio/ggsegSchaefer
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegGlasser"]
+	path = ggsegGlasser
+	url = https://github.com/lcbc-uio/ggsegGlasser
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegDesterieux"]
+	path = ggsegDesterieux
+	url = https://github.com/lcbc-uio/ggsegDesterieux
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegDefaultExtra"]
+	path = ggsegDefaultExtra
+	url = https://github.com/lcbc-uio/ggsegDefaultExtra
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegChen"]
+	path = ggsegChen
+	url = https://github.com/lcbc-uio/ggsegChen
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegTracula"]
+	path = ggsegTracula
+	url = https://github.com/lcbc-uio/ggsegTracula
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegDKT"]
+	path = ggsegDKT
+	url = https://github.com/lcbc-uio/ggsegDKT
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegJHU"]
+	path = ggsegJHU
+	url = https://github.com/lcbc-uio/ggsegJHU
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegICBM"]
+	path = ggsegICBM
+	url = https://github.com/lcbc-uio/ggsegICBM
+	shallow = true
+	branch = master
+	registered = true
+[submodule "ggsegHO"]
+	path = ggsegHO
+	url = https://github.com/lcbc-uio/ggsegHO
+	shallow = true
+	branch = master
+	registered = true
+[submodule "uiothemes"]
+	path = uiothemes
+	url = https://github.com/Athanasiamo/uiothemes
+	shallow = true
+	branch = main
+	registered = true
+[submodule "colorhex"]
+	path = colorhex
+	url = https://github.com/Athanasiamo/colorhex
+	shallow = true
+	branch = main
+	registered = true
