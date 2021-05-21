@@ -1,7 +1,7 @@
 [
   {
     "package": "ggseg",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "ggseg3d"
@@ -44,6 +44,10 @@
   },
   {
     "package": "uiothemes"
+  },
+  {
+    "package": "nettskjemar",
+    "oncran": true
   },
   {
     "package": "colorhex"
