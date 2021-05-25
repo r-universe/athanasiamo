@@ -50,6 +50,7 @@
     "oncran": true
   },
   {
-    "package": "colorhex"
+    "package": "colorhex",
+    "oncran": false
   }
 ]
