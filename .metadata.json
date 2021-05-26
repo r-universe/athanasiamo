@@ -51,6 +51,6 @@
   },
   {
     "package": "colorhex",
-    "oncran": false
+    "oncran": true
   }
 ]
