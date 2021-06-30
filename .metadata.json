@@ -1,7 +1,6 @@
 [
   {
-    "package": "ggseg",
-    "oncran": true
+    "package": "ggseg"
   },
   {
     "package": "ggseg3d",
